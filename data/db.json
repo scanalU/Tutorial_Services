@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Persona": 9
+  },
+  "models": {
+    "Persona": {
+      "Sergi": "{\"Name\":\"Sergi\",\"pass\":\"SSS\",\"role\":\"admin\"}",
+      "Roger": "{\"Name\":\"Roger\",\"pass\":\"RRR\",\"role\":\"user\"}",
+      "Pau": "{\"Name\":\"Pau\",\"pass\":\"PPP\",\"role\":\"user\"}",
+      "Paula": "{\"Name\":\"Paula\",\"pass\":\"PPP\",\"role\":\"user\"}",
+      "Laura": "{\"Name\":\"Laura\",\"pass\":\"LLL\",\"role\":\"user\"}",
+      "Alba": "{\"Name\":\"Alba\",\"pass\":\"AAA\",\"role\":\"user\"}"
+    }
+  }
+}
